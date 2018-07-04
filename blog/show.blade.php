@@ -15,8 +15,9 @@
 		<div class="doc-body">
 			<div class="doc-content">
 				<div class="content-inner">
-					{!! $row->txt !!}
+					
 					{{--
+					{!! $row->txt !!}
 					@include($view.'.sections.download')
 					@include($view.'.sections.installation')
 					@include($view.'.sections.code')
