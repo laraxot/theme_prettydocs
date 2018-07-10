@@ -23,7 +23,7 @@
 						<i class="icon fa fa-paper-plane"></i>
 					</div>
 					<!--//icon-holder-->
-					<h3 class="title">{{ $post->title }} ! </h3>
+					<h3 class="title">{{ $post->title }} !  </h3>
 					<p class="intro">{{ $post->subtitle }}</p>
 					<a class="link" href="{{ $post->url }}"><span></span></a>
 				</div>
