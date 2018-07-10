@@ -11,7 +11,7 @@
 			<div class="cta-container">
 				<a class="btn btn-primary btn-cta" href="http://themes.3rdwavemedia.com/" target="_blank"><i class="fa fa-cloud-download"></i> Download Now</a>
 			</div>
-			--}}
+			--}} 
 		</div>
 		<!--//intro-->
 		<div id="cards-wrapper" class="cards-wrapper row">

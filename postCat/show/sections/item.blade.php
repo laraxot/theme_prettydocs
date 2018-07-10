@@ -20,5 +20,5 @@
 				{!! $row->txt !!}
 			</div>				
 		</div>
-	</div>
+	</div> 
 </section>

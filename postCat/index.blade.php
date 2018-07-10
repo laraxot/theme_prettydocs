@@ -26,7 +26,7 @@
 					<h3 class="title">{{ $post->title }}</h3>
 					<p class="intro">{{ $post->subtitle }}</p>
 					<a class="link" href="{{ $post->url }}"><span></span></a>
-				</div>
+				</div>  
 				<!--//item-inner-->
 			</div>
 			<!--//item-->

@@ -16,7 +16,7 @@
 							<h4 class="content-title"><strong>Love this free documentation theme?</strong></h4>
 							<p>Check out AppKit - an Angular admin theme I created with my developer friend <a href="https://twitter.com/tnajdek">Tom Najdek</a> for developers. AppKit uses modern front-end technologies and is packed with useful components and widgets to speed up your app development.</p>
 							<p><strong class="highlight">[Tip for developers]:</strong> If your project is Open Source, you can use this area to promote your other projects or hold third party adverts like Bootstrap and FontAwesome do!</p>
-						</div>
+						</div> 
 						<!--//desc-->
 						<div class="author"><a href="http://themes.3rdwavemedia.com">Xiaoying Riley</a></div>
 					</div>

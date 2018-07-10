@@ -28,7 +28,7 @@
 					@include($view.'.sections.buttons')
 					@include($view.'.sections.video')
 					--}}
-				</div>
+				</div>  
 				<!--//content-inner-->
 			</div>
 			<!--//doc-content-->

@@ -26,7 +26,7 @@
 					<li><a class="scrollto" href="#python">Python</a></li>
 					<li><a class="scrollto" href="#php">PHP</a></li>
 					<li><a class="scrollto" href="#handlebars">Handlebars</a></li>
-				</ul>
+				</ul> 
 				<!--//nav-->
 			</li>
 			<li><a class="scrollto" href="#callouts-section">Callouts</a></li>
