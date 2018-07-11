@@ -8,8 +8,8 @@
 {{ Theme::add('theme/bc/leaflet.markercluster/dist/leaflet.markercluster.js') }}
 {{ Theme::add('theme/bc/leaflet.markercluster/dist/MarkerCluster.css') }}
 {{ Theme::add('theme/bc/leaflet.markercluster/dist/MarkerCluster.Default.css') }}
-{{ Theme::add('theme/bc/leaflet.fullscreen/dist/leaflet.fullscreen.css')}}
-{{ Theme::add('theme/bc/leaflet.fullscreen/dist/Leaflet.fullscreen.min.js')}}
+{{ Theme::add('theme/bc/Leaflet.fullscreen/dist/leaflet.fullscreen.css')}}
+{{ Theme::add('theme/bc/Leaflet.fullscreen/dist/Leaflet.fullscreen.min.js')}}
 
 <div id="mapid" style="width: 800px; height: 600px;"></div>
 <div id="msg2">MSG2</div>
@@ -54,6 +54,7 @@
 			dataType: 'json',
 			data: formData, //querystring,
 			success: function(response) {
+				//console.log(response);
 				showMarkers(response, mymap);
 				//geojsonLayer = L.geoJson(response).addTo(map);
         		//map.fitBounds(geojsonLayer.getBounds());
