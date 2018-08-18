@@ -8,6 +8,7 @@
 				</a>
 			</h1>
 		</div><!--//branding-->
+		@include('lu::auth.links')
 		@include('pub_theme::layouts.partials.breadcrumb')
 		
 	</div><!--//container-->

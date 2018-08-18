@@ -11,5 +11,6 @@
 			<p>{{ $home->subtitle }}</p>
 			<p>Designed with <i class="fa fa-heart"></i> for developers</p>
 		</div><!--//tagline-->
+		@include('lu::auth.links')
 	</div><!--//container-->
 </header><!--//header-->
