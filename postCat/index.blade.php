@@ -19,7 +19,7 @@
 			@foreach($postCat->archive as $post) 
 			<div class="item item-green col-md-4 col-sm-6 col-xs-6">
 				<div class="item-inner">
-					<div class="icon-holder">
+					<div class="icon-holder col-md-1">
 						<i class="icon fa fa-paper-plane"></i>
 					</div>
 					<!--//icon-holder-->
