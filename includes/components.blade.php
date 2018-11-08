@@ -2,7 +2,7 @@
     $params=\Route::current()->parameters();
     extract($params);
     if(isset($container)){
-        if(is_object($container)){$container_type=$container->type;}else{$container_type=$container;}
+        if(is_object($container)){$container_type=$container0->type;}else{$container_type=$container;}
         $lang='pub_theme::'.$container_type;
         if(isset($container1)){
             if(is_object($container1)){$container1_type=$container1->type;}else{$container1_type=$container1;}
