@@ -16,7 +16,7 @@
 		<!--//intro-->
 		<div id="cards-wrapper" class="cards-wrapper row">
 			{{-- dd($blog->archive()->toSql()) --}}
-			@foreach($postCat->archive as $post) 
+			@foreach($postCat->archive()->get()as $post) 
 			<div class="item item-green col-md-4 col-sm-6 col-xs-6">
 				<div class="item-inner">
 					<div class="icon-holder col-md-1">
