@@ -9,11 +9,11 @@
     <link rel="shortcut icon" href="favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <!-- FontAwesome JS -->
-    <script defer src="{{ asset('/plugins/fontawesome/js/all.js') }}"></script>
+    <script defer src="{{ Theme::asset('/plugins/fontawesome/js/all.js') }}"></script>
     <!-- Global CSS -->
-    <link rel="stylesheet" href="{{ asset('/plugins/bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ Theme::asset('/plugins/bootstrap/css/bootstrap.min.css') }}">
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="{{ asset('/plugins/elegant_font/css/style.css') }}">
+    <link rel="stylesheet" href="{{ Theme::asset('/plugins/elegant_font/css/style.css') }}">
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="{{ Theme::asset('pub_theme::css/styles.css') }}">
 
