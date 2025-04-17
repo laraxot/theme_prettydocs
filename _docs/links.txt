@@ -1,0 +1,1 @@
+https://github.com/zlotte/pretty-docs-laravel
